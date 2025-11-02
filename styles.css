@@ -623,7 +623,7 @@ section{
     }
 }
 
-@media (max-width: 1080px){
+@media (max-width: 1200px){
     .home img {
         width: 500px;
         height: 500px;
