@@ -621,9 +621,21 @@ section{
     .home-content p {
         font-size: 1.5rem;
     }
+
+    .services-box h3 {
+        font-size: 2rem;
+    }
+
+    .services-box i {
+        font-size: 3rem;
+    }
+
+    .services-box p {
+        font-size: 1.4rem;
+    }
 }
 
-@media (max-width: 1200px){
+@media (max-width: 1080px){
     .home img {
         width: 500px;
         height: 500px;
